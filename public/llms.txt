@@ -1,75 +1,85 @@
-# Business — Generative Engine Optimization Map
+# כבש הכבשים — Generative Engine Optimization Map
+
+> A אופנה ואקססוריז business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://kevesh-hakvasim.zappy5.app
 
 ### Brand
-https://example.com/brand
+https://kevesh-hakvasim.zappy5.app/brand
 
 ### Lookbook
-https://example.com/lookbook
+https://kevesh-hakvasim.zappy5.app/lookbook
 
 ### Contact
-https://example.com/contact
+https://kevesh-hakvasim.zappy5.app/contact
 
 ### Products
-https://example.com/products
+https://kevesh-hakvasim.zappy5.app/products
 המוצרים שלנו - כבש הכבשים
 
 ### Cart
-https://example.com/cart
+https://kevesh-hakvasim.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://kevesh-hakvasim.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://kevesh-hakvasim.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://kevesh-hakvasim.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://kevesh-hakvasim.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://kevesh-hakvasim.zappy5.app/product/:slug
 פרטי המוצר - כבש הכבשים
 
 ### Category
-https://example.com/category/:slug
+https://kevesh-hakvasim.zappy5.app/category/:slug
 מוצרים - כבש הכבשים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kevesh-hakvasim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kevesh-hakvasim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kevesh-hakvasim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About כבש הכבשים
+כבש הכבשים is a business in the אופנה ואקססוריז industry.
+
+## Target Audience
+צעירים שאוהבים הומור, סטנד-אפ ופוקר
+
+## Industry
+אופנה ואקססוריז
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://kevesh-hakvasim.zappy5.app/sitemap.xml
+- **Robots.txt**: https://kevesh-hakvasim.zappy5.app/robots.txt
