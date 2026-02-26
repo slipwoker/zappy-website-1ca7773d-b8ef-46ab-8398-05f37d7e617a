@@ -1,6 +1,4 @@
-# כבש הכבשים — Generative Engine Optimization Map
-
-> A אופנה ואקססוריז business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -68,15 +66,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About כבש הכבשים
-כבש הכבשים is a business in the אופנה ואקססוריז industry.
-
-## Target Audience
-צעירים שאוהבים הומור, סטנד-אפ ופוקר
-
-## Industry
-אופנה ואקססוריז
-
+## About Business
 ---
 
 # Additional Resources
